@@ -11,4 +11,14 @@ The third attributed to Besicovitch is a three segment zigzag which is the best 
 
 No other paths are known to be solutions and even the full range of shapes for which these three types of curve are solutions is not known.
 
-The only other conjectured solutions are those in my paper "Lost in an isosceles triangle which suggests a number of different solutions types for given base angles. These are based mainly on a monte carlo "random paths" algorithm that can be used to find approximate solutions for a given shape.  
+The only other conjectured solutions are those in my paper "Lost in an isosceles triangle" which suggests a number of different solutions types for given base angles. These are based mainly on a monte carlo "random paths" algorithm that can be used to find approximate solutions for a given shape.  
+
+Solutions to Bellman's problem have applications to Moser's worm problem because where a solution is known for a given shape that will set an upper bound using a similar shape as a worm cover.
+
+The lack of progress beyond the three known solutions after sixty years has led to the problem being described as "unapproachable." In one article Scott Willaims listed it as one of seven problems whose solution would be worth "a million bucks." However, no actual prize money has been offered.
+
+Aside from its interest as a problem in pure mathematics An efficient algorithmic solution to the problem could be of practical importance to robotics and search tasks
+
+The problem is of interest for very general shapes including shapes that are disconnected or contain holes. For the purposes of simplicity this project will focus on convex polygons, but if this is solved it may be possible to generalise. Note that the convex case is sufficient for applications to the Moser worm problem.
+
+
