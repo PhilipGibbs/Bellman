@@ -27,4 +27,4 @@ In this repository I will attempt to subdivide the problem into distinct subprob
 
 If necessary I will make assumptions and will not be attempting to rigorously prove that the algorithm is correct. 
 
-
+This goal is ambitious and it may not be possible to complete it.
