@@ -21,4 +21,10 @@ Aside from its interest as a problem in pure mathematics An efficient algorithmi
 
 The problem is of interest for very general shapes including shapes that are disconnected or contain holes. For the purposes of simplicity this project will focus on convex polygons, but if this is solved it may be possible to generalise. Note that the convex case is sufficient for applications to the Moser worm problem.
 
+Despite the pessimism about solutions I believe that it may be possible to resolve the problem using a combinatorical result. By analysing the nature of optimal escape paths I have shown that for a convex polygonal forest the escape path must take the form of a curve made piecewise of stright line and circular arc segments. To find the optimal path it should be sufficient to enumerate all the ways in which such a curve can touch the sides of the forest, and then find the geometric optimal for each case.
+
+In this repository I will attempt to subdivide the problem into distinct subproblems which are iether combinatorial or geometric, solve the each subproblems and then implement to form the dolution.
+
+If necessary I will make assumptions and will not be attempting to rigorously prove that the algorithm is correct. 
+
 
