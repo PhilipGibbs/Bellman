@@ -4,4 +4,4 @@ A hiker is lost in a triangular forest. His map shows that the forest is an isos
 The length of the shortest straight edge is one mile.
 He has no idea where in the forest he is or which direction he is facing.
 
-_Conjecture_: The optimal escape path consists of two straight paths of length one mile each, with an angle of 60 degrees between them so they form two sides of an equilateral triangle. 
+_Conjecture_: The optimal escape route consists of walking in two straight paths of length one mile each, with an angle of 60 degrees between them so they form two sides of an equilateral triangle. 
